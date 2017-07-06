@@ -36,8 +36,8 @@ h1 {
 }
 
 h2 {
-	color: #F06;
-	font-family: Arial, Helvetica, sans-serif;
+	color: #000;
+	font-family: "微软雅黑";
 	font-size: 26px;
 	letter-spacing: 0.5px;
 	font-weight: normal;
@@ -104,6 +104,7 @@ li ol, li ul {
 #header h1  {
 	padding-top: 15px;
 	padding-left: 15px;
+	font-family: "苏新诗柳楷简";
 }
 
 #header h1 a {
@@ -115,13 +116,13 @@ li ol, li ul {
 }
 
 #header p {
-	color: #999;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 14px;
+	color: #C9F;
+	font-family: "Edo SZ";
+	font-size: 18px;
 	font-weight: bold;
 	margin-left: 12px;
-	margin-top: 0px;
-	padding-left: 8px;
+	margin-top: 10px;
+	padding-left: 450px;
 	line-height:12px;
 }
 
@@ -147,16 +148,16 @@ li ol, li ul {
 }
 
 #nav ul li a {
-	color: #BBDBFF;
 	display: block;
-	font-size: 14px;
+	font-size: 18px;
 	padding: 12px 20px;
 	text-decoration: none;
 	text-transform: uppercase;
+	color: #F00;
 }
 
 #nav ul li a:hover {
-	color: #fff;
+	color: #FF0;
 }
 
 
@@ -165,7 +166,7 @@ li ol, li ul {
 	height: 260px; 
 	width: 920px; 
 	margin:10px 0px 0px 0px;
-	background-image:url(images/banner.jpg);
+	background-image:url(images/background4.jpg);
 	background-repeat:no-repeat;
 }
 #slogan {
