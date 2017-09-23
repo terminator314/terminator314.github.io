@@ -15,6 +15,7 @@ body {
 p {
 	line-height: 1.5em;
 	margin-bottom: 20px;
+	font-weight: bolder;
 }
 
 a {
@@ -96,42 +97,19 @@ li ol, li ul {
 
 /*----------- Header -----------------*/
 #header {
-	padding: 0;
-	margin: 0 auto;
-	height: 88px;
+	padding: 10px;
+	margin: 0 ;
+	height: auto;
 }
 
-#header h1  {
-	padding-top: 15px;
-	padding-left: 15px;
-	font-family: "苏新诗柳楷简";
-}
 
-#header h1 a {
-	font-family: Georgia, "Times New Roman", Times, serif;
-	color: #59ABFD;
-	font-size: 40px;
-	font-weight: normal;
-	text-decoration: none;
-}
-
-#header p {
-	color: #C9F;
-	font-family: "Edo SZ";
-	font-size: 18px;
-	font-weight: bold;
-	margin-left: 12px;
-	margin-top: 10px;
-	padding-left: 450px;
-	line-height:12px;
-}
 
 
 /*----------- Navigation -----------------*/
 #nav {
 	height: 40px;
 	width: 920px;
-	margin-top:70px;
+	margin-top:125px;
 }
 
 #nav ul {
@@ -148,7 +126,7 @@ li ol, li ul {
 }
 
 #nav ul li a {
-	color: #BBDBFF;
+	color: #000;
 	display: block;
 	font-size: 18px;
 	padding: 12px 20px;
@@ -157,7 +135,8 @@ li ol, li ul {
 }
 
 #nav ul li a:hover {
-	color: #fff;
+	color: #C30;
+	font-size: 18px;
 }
 
 
@@ -166,7 +145,7 @@ li ol, li ul {
 	height: 260px; 
 	width: 920px; 
 	margin:10px 0px 0px 0px;
-	background-image:url(images/banner.jpg);
+	background-image:url(images/标题图.jpg);
 	background-repeat:no-repeat;
 }
 #slogan {
@@ -208,8 +187,8 @@ margin:0;
 .sidebar-inner {
 	-moz-border-radius:17px;
 	background-color:#E8F3FF;
-	padding:15px;
-	margin-bottom:20px;
+	padding:25px;
+	margin-bottom:40px;
 
 }
 

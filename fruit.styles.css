@@ -99,9 +99,9 @@ li ol, li ul {
 
 /*----------- Header -----------------*/
 #header {
-	padding: 0;
+	padding: 10px;
 	margin: 0 auto;
-	height: 88px;
+	height: auto;
 }
 
 #header h1  {
@@ -119,12 +119,14 @@ li ol, li ul {
 }
 
 #header p {
-	color: #C9F;
-	font-family: "Edo SZ";
-	font-size: 18px;
-	font-weight: bold;
-	margin-left: 12px;
-	margin-top: 10px;
+	color: #333;
+	font-family: "Roboto","Open Sans";
+	font-size: 20px;
+	font-weight: 900;
+	font-style:italic;
+	margin-left: 40px;
+	margin-top: 18px;
+	margin-bottom:10px;
 	padding-left: 450px;
 	line-height:12px;
 }
@@ -134,7 +136,7 @@ li ol, li ul {
 #nav {
 	height: 40px;
 	width: 920px;
-	margin-top:70px;
+	margin-top:120px;
 }
 
 #nav ul {
@@ -151,7 +153,7 @@ li ol, li ul {
 }
 
 #nav ul li a {
-	color: #BBDBFF;
+	color: #000;
 	display: block;
 	font-size: 18px;
 	padding: 12px 20px;
@@ -160,7 +162,7 @@ li ol, li ul {
 }
 
 #nav ul li a:hover {
-	color: #fff;
+	color: #C30;
 }
 
 
@@ -169,7 +171,7 @@ li ol, li ul {
 	height: 260px; 
 	width: 920px; 
 	margin:10px 0px 0px 0px;
-	background-image:url(images/banner.jpg);
+	background-image:url(images/标题图.jpg);
 	background-repeat:no-repeat;
 }
 #slogan {
