@@ -6,8 +6,8 @@
 <div id="container-inner">
 
 	<div id="header">
-    	<h1>生物医学光谱学及成像实验室</h1>
-  		<p>Lab of Biomedical Spectroscopy and Imaging</p>
+    	<img src="images/题目.jpg">
+  		
         <div class="clear"></div>
     </div><!-- end header -->
     
@@ -16,8 +16,8 @@
     <div id="banner">
     	
         <div id="slogan">
-        <p><span class="slogan-big"><strong>logo这个网站</strong></span> 正在完善中 敬请期待<br>
-	       一个南京航空航天大学LOGO</p></div><!-- end slogan -->
+        <p><span class="slogan-big"><strong></strong></span><br>
+	       </p></div><!-- end slogan -->
                                             
                                              <div id="nav">
     	<ul>
@@ -42,22 +42,23 @@
 	<td height="88" colspan="2" class="column-1"><h1 style="text-align: center;"><span style="font-family: 'times new roman', times; font-size: 24pt; color: #0000ff;"><strong style="color: #0000ff;">Group Leader</strong></span></h1></td>
 </tr>
 <tr class="row-2">
-	<td width="20%" class="column-1"><a title="Prof. Jian-hua Yin" rel="attachment wp-att-321"><img class="alignnone size-full wp-image-321" src= alt="" width="150" height="200" /></a></td><td width="80%" class="column-2"><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>尹建华</strong></span><br />
-<br />
-<br />
-<br />
-<span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;"> xxxxxxx</span><br />
-<br />
-<span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;"> xxxxxxx<br />
-</span><br />
-<span style="font-family: verdana, geneva; font-size: 14pt; color: #000000;">Tel: xxxxx</span><br />
-<span style="font-family: verdana, geneva; font-size: 14pt;"> <a href="xxxx">Email</a></span></td>
+	<td width="20%" class="column-1"><a title="Prof. Jian-hua Yin" rel="attachment wp-att-321"><img class="alignnone size-full wp-image-321" src= images/yin.jpg width="150" height="200" /></a></td><td width="80%" class="column-2"><p><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>尹建华</strong></span><br />
+  <br />
+ 
+	  
+  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;"> 南京航空航天大学生物医学工程系教授，中国光学学会生物医学光子学专业委员会委员，多个学会会员。主持NSFC面上项目、教育部博士学科点基金、江苏省自然科学基金和江苏省"六大人才高峰"高层次人才计划等项目。作为项目主要完成人参与完成2项美国NIH R01项目，2项日本文部省重大项目，3项国家自然科学基金面上项目。</span><br />
+  <br />
+  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">研究领域：</span><br/>
+	  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">生物医学光谱学及成像、生医光子学技术开发及应用、光谱及其图像分析、界面生物分析化学等<br />
+	    </span><br />
+	    <span style="font-family: verdana, geneva; font-size: 14pt; color: #000000;"> </span><br />
+	    <span style="font-family: verdana, geneva; font-size: 14pt;color: #03F;">Email：yin@nuaa.edu.cn</a></span></p></td>
 </tr>
 <tr class="row-3">
 	<td colspan="2" class="column-1"><h1 style="text-align: center;"><span style="font-family: 'times new roman', times; font-size: 24pt; color: #0000ff;"><strong style="color: #0000ff;">Key Collaborators</strong></span></h1></td>
 </tr>
 <tr class="row-4">
-	<td class="column-1"><img src="images/王潇/wangxiao.jpg" alt="" width="146" height="200" class="aligncenter size-full wp-image-1543" /></a></td><td class="column-2"><p><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>王潇</strong></span></a><br />
+	<td class="column-1"><img src="images/王潇/wangxiao.jpg") alt="" width="146" height="200" class="aligncenter size-full wp-image-1543" src: url('../images/王潇/wangxiao.jpg /></a></td><td class="column-2"><p><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>王潇</strong></span></a><br />
   <br />
   <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">研究经历：</span></p>
 	  <p>	  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">2014/09 – 现在，南京航空航天大学，自动化学院生物医学工程系，讲师
@@ -69,23 +70,24 @@
 	    <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;"> 研究方向：</span><br />
 	    <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">生物光子学、生物成像、荧光显微成像、 医疗增强显示<br />
 	      </span><br />
-	    <span style="font-family: verdana, geneva; font-size: 14pt;"><a href="mailto:18112911586@qq.com">Email</a></span><br />
+	    <span style="font-family: verdana, geneva; font-size: 14pt; color: #03F;">Email:18112911586@qq.com</a></span><br />
 	  </p></td>
 </tr>
 <tr class="row-9">
   <td colspan="2" class="column-1"><h1 style="text-align: center;"><span style="font-family: 'times new roman', times; font-size: 24pt; color: #0000ff;"><strong style="color: #0000ff;">Doctor</strong></span></h1></td>
 </tr>
 <tr class="row-10">
-	<td class="column-1"><img src="images/赵远/zhaoyuan.jpg" alt="" width="150" height="200" class="aligncenter size-full wp-image-1549" /></a></td><td class="column-2"><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>赵远</strong></span><br />
-<br />
-<span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">安徽省芜湖市 </span><br />
-<br />
- <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;"> 研究方向：</span><br />
-<span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">生医光谱学成像、分析及诊断<br /></span><br />
-<br />
-<span style="font-family: verdana, geneva; font-size: 14pt;"><a href="rusher12345@163.com">Email</a></span><br />
-<span style="font-family: verdana, geneva; font-size: 14pt;"><br />
-</span></td>
+	<td class="column-1"><img src="images/赵远/zhaoyuan.jpg" alt="" width="150" height="200" class="aligncenter size-full wp-image-1549" /></a></td><td class="column-2"><p><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>赵远</strong></span><br />
+  <br />
+  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">安徽省芜湖市 </span><br />
+  <br />
+	  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;"> 研究方向：</span></p>
+	  <p><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">生医光谱学成像、分析及诊断<br />
+	    </span><br />
+	    <br />
+	    <span style="font-family: verdana, geneva; font-size: 14pt;color: #03F;">Email:rusher12345@163.com</a></span><br />
+	    <span style="font-family: verdana, geneva; font-size: 14pt;"><br />
+	      </span></p></td>
 </tr>
 </tbody>
 </table>
@@ -96,156 +98,148 @@
 </tr>
 <tr class="row-4">
 	<td width="168" class="column-1"><img src="images/高浩/gaohao.jpg" alt="" width="150" height="200" class="aligncenter size-full wp-image-1543" /></a></td>
-	<td width="726" class="column-2"><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>高浩</strong></span><br />
-<br />
-<span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">安徽省安庆市 </span><br />
-<br /><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">研究方向：<br />
-拉曼光谱学<br />
-</span><br />
-<span style="font-family: verdana, geneva; font-size: 14pt;"><a href="https://Gao_Hao@live.cn">Email</a></span><br /></td>
+	<td width="726" class="column-2"><p><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>高浩</strong></span><br />
+  <br />
+  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">安徽省安庆市 </span><br />
+  <br />
+  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">研究方向：</span></p>
+	  <p><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">拉曼光谱学<br />
+	    </span><br />
+	    <span style="font-family: verdana, geneva; font-size: 14pt;color: #03F;">Email:Gao_Hao@live.com</a></span><br />
+	    </p></td>
 </tr>
 <tr class="row-5">
-	<td class="column-1"><img src="images/翟明阳/zhaimingyang.jpg" alt="" width="150" height="200" class="aligncenter size-full wp-image-1545" /></a></td><td class="column-2"><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>翟明阳</strong></span></a><br />
-<br />
-<span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">山东省宁阳县</span><br />
-<br />
-<span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">研究方向：<br />
-生物医学红外光谱学研究</span><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;"><br />
-</span><br />
-<span style="font-family: verdana, geneva; font-size: 14pt;"><a href="zhaimingyang_0721@163.com">Email</a></span><br /></td>
+	<td class="column-1"><img src="images/翟明阳/zhaimingyang.jpg" alt="" width="150" height="200" class="aligncenter size-full wp-image-1545" /></a></td><td class="column-2"><p><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>翟明阳</strong></span></a><br />
+  <br />
+  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">山东省宁阳县</span><br />
+  <br />
+  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">研究方向：</span></p>
+	  <p><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">生物医学红外光谱学研究<br />
+	    </span><br />
+	    <span style="font-family: verdana, geneva; font-size: 14pt;color: #03F;">Email:zhaimingyang_0721@163.com</a></span><br />
+	    </p></td>
 </tr>
 <tr class="row-6">
-	<td class="column-1"><img src="images/徐浩/xuhao.jpg" alt="" width="150" height="198" class="alignnone size-full wp-image-1603" /></a></td>
-	<td class="column-2"><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>徐浩</strong></span><br />
-<br />
-<span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000"></span><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">浙江省绍兴市</span><br />
-<br />
-<span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">研究方向：<br />
-拉曼光谱光纤探针</span><br />
-<br />
-<span style="font-family: verdana, geneva; font-size: 14pt;"><a href="xuhaonuaa2012@163.com">Email</a></span><br />
-<span style="font-family: verdana, geneva; font-size: 14pt;"><br />
-</span></td>
+	<td class="column-1"><img src="images/徐浩/xuhao.jpg" alt="" width="150" height="200" class="alignnone size-full wp-image-1603" /></a></td>
+	<td class="column-2"><p><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>徐浩</strong></span><br />
+  <br />
+  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000"></span><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">浙江省绍兴市</span><br />
+  <br />
+  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">研究方向：</span></p>
+	  <p><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">拉曼光谱光纤探针</span><br />
+	    <br />
+	    <span style="font-family: verdana, geneva; font-size: 14pt;color: #03F;">Email:xuhaonuaa2012@163.com</a></span><br />
+	    <span style="font-family: verdana, geneva; font-size: 14pt;"><br />
+</span></p></td>
 </tr>
 <tr class="row-7">
 	<td class="column-1"><img src="images/尚林伟/shanglinwei.jpg" alt="" width="150" height="200" class="alignnone size-full wp-image-1602" /></a></td>
-	<td class="column-2"><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>尚林伟</strong></span><br />
-<br />
-<span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000"></span><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">四川凉山</span><br />
-<br />
-<span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">研究方向：<br />
-显微拉曼与显微荧光光谱学<br />
-</span><br />
-<span style="font-family: verdana, geneva; font-size: 14pt;"><a href="235445892@qq.com">Email</a></span><br />
-<span style="font-family: verdana, geneva; font-size: 14pt;"><br />
-</span></td>
+	<td class="column-2"><p><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>尚林伟</strong></span><br />
+  <br />
+  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000"></span><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">四川凉山</span><br />
+  <br />
+  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">研究方向：</span></p>
+	  <p><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">显微拉曼与显微荧光光谱学<br />
+	    </span><br />
+	    <span style="font-family: verdana, geneva; font-size: 14pt;color: #03F;">Email:235445892@qq.com</a></span><br />
+	    <span style="font-family: verdana, geneva; font-size: 14pt;"><br />
+</span></p></td>
 </tr>
-
 <tr class="row-8">
 	<td class="column-1"><img src="images/杨凤/yangfeng.jpg" alt="" width="150" height="200" class="alignnone size-full wp-image-1602" /></a></td>
-	<td class="column-2"><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>杨凤</strong></span><br />
-<br />
-<span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000"></span><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">山东省滕州市
-</span><br />
-<br />
-<span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">研究方向：<br />
-荧光显微超分辨成像<br />
-</span><br />
-<span style="font-family: verdana, geneva; font-size: 14pt;"><a href="yangfeng_luckya@163.com">Email</a></span><br />
-<span style="font-family: verdana, geneva; font-size: 14pt;"><br />
-</span></td>
-</tr>
-
-<tr class="row-9">
-	<td class="column-1"><img src="images/陆燕飞/luyanfei.jpg" alt= width="150" width="150" height="200" class="aligncenter size-full wp-image-1802" /></a></td>
-	<td class="column-2"><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>陆燕飞</strong></span><br />
-<br />
-<span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">浙江省杭州市<br />
-<br />
-研究方向：<br />
- xxxxxxxx</span><br />
-<br />
-<span style="font-family: verdana, geneva; font-size: 14pt;"><a href="694732348@qq.com">Email</a></span><br />
-<span style="font-family: verdana, geneva; font-size: 14pt;"><br />
-</span></td>
-<tr class="row-10">
-	<td class="column-1"><img src="file:///C|/Users/BME/Desktop/malaniurou.github.io/images/" alt= width="150" width="150" height="197" class="aligncenter size-full wp-image-1802" /></a></td>
+	<td class="column-2"><p><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>杨凤</strong></span><br />
+  <br />
+  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">山东省滕州市<br />
+  <br />
+    研究方向：</span></p>
+	  <p><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">荧光显微超分辨成像<br />
+	    </span><br />
+	    <span style="font-family: verdana, geneva; font-size: 14pt;color: #03F;">Email:yangfeng_luckya@163.com</a></span><br />
+	    <span style="font-family: verdana, geneva; font-size: 14pt;"><br />
+</span></p></td>
+<tr class="row-8">
+	<td class="column-1"><img src="images/朱勇康/zhuyongkang.jpg" alt="" width="150" height="200" class="alignnone size-full wp-image-1602" /></a></td>
 	<td class="column-2"><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>朱勇康</strong></span><br />
 <br />
 <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">山东省潍坊市<br />
 <br />
 研究方向：<br />
- xxxxxxxx</span><br />
+  </span><br />
 <br />
-<span style="font-family: verdana, geneva; font-size: 14pt;"><a href="949463314@qq.com">Email</a></span><br />
+<span style="font-family: verdana, geneva; font-size: 14pt;color: #03F;">Email:949463314@qq.com</a></span><br />
 <span style="font-family: verdana, geneva; font-size: 14pt;"><br />
 </span></td>
-</tr>
-
-<tr class="row-11">
-	<td class="column-1"><img src="images/张雅馨/shanglinwei.jpg" alt="" width="150" height="200" class="alignnone size-full wp-image-1602" /></a></td>
+<tr class="row-9">
+	<td class="column-1"><img src="images/张雅馨/zhangyaxin.jpg" alt="" width="150" height="200" class="alignnone size-full wp-image-1602" /></a></td>
 	<td class="column-2"><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>张雅馨</strong></span><br />
 <br />
-<span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000"></span><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">内蒙古 包头</span><br />
+<span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">内蒙古包头<br />
 <br />
-<span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">研究方向：<br />
-显微拉曼与显微荧光光谱学<br />
+研究方向：<br />
 </span><br />
-<span style="font-family: verdana, geneva; font-size: 14pt;"><a href="235445892@qq.com">Email</a></span><br />
+<br />
+<span style="font-family: verdana, geneva; font-size: 14pt;color: #03F;">Email:1124954541@qq.com</a></span><br />
 <span style="font-family: verdana, geneva; font-size: 14pt;"><br />
 </span></td>
 </tr>
-
-<tr class="row-12">
-	<td colspan="2" class="column-1"><h1 align="center"><span style="font-family: 'times new roman', times; font-size: 24pt; color: #0000ff;"><strong style="color: #0000ff;">Graduate Students</strong></span></h1></td>
+<tr class="row-9">
+	<td class="column-1"><img src="images/陆燕飞/luyanfei.jpg" alt="" width="150" height="200" class="alignnone size-full wp-image-1602" /></a></td>
+	<td class="column-2"><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>陆燕飞</strong></span><br />
+<br />
+<span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">浙江杭州市<br />
+<br />
+研究方向：<br />
+</span><br />
+<br />
+<span style="font-family: verdana, geneva; font-size: 14pt;color: #03F;">Email:694732348@qq.com</a></span><br />
+<span style="font-family: verdana, geneva; font-size: 14pt;"><br />
+</span></td>
 </tr>
 <tr class="row-10">
-	<td class="column-1"><img src="images/毛之华/maozhihua.jpg"  width="150" height="197" class="aligncenter size-full wp-image-1549" /></a></td>
+	<td colspan="2" class="column-1"><h1 align="center"><span style="font-family: 'times new roman', times; font-size: 24pt; color: #0000ff;"><strong style="color: #0000ff;">Graduates</strong></span></h1></td>
+</tr>
+<tr class="row-11">
+	<td class="column-1"><img src="images/毛之华/maozhihua.jpg" alt=“” width="150" height="200" class="aligncenter size-full wp-image-1549" /></a></td>
 	<td class="column-2"><p><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>毛之华</strong></span><br />
   <br />
   <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">浙江省余姚市</span><br />
   <br />
-  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">研究方向：<br />
-    生物医学光谱学、化学计量学</span></p>
-	  <p><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">毕业去向：<br />
-宁波市舜宇光电信息有限公司</span><br />
+  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">研究方向：</span></p>
+	  <p><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">生物医学光谱学、化学计量学</span></p>
+	  <p><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">毕业去向：宁波市舜宇光电信息有限公司</span><br />
 	    <br />
-	    <span style="font-family: verdana, geneva; font-size: 14pt;"><a href="mzh163161@163.com">Email</a></span><br />
+	    <span style="font-family: verdana, geneva; font-size: 14pt;color: #03F;">Email:mzh163161@163.com</a></span><br />
 	    <span style="font-family: verdana, geneva; font-size: 14pt;"><br />
 </span></p></td>
 </tr>
-<tr class="row-13">
-	<td class="column-1"><img src="images/吴曰超/wuyuechao.jpg" width="150" height="197" class="ngg-singlepic ngg-none"  " /></a></td>
+<tr class="row-12">
+	<td class="column-1"><img src="images/吴曰超/wuyuechao.jpg" width="150" height="200" class="ngg-singlepic ngg-none"  " /></a></td>
 	<td class="column-2"><p><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>吴日超</strong></span><br />
   <br />
   <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">山东省青岛市</span><br />
   <br />
-  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">研究方向：<br />
-    生物医学光谱学与技术</span><em><strong></strong></em></p>
-	  <p><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">毕业去向：<br />
-海信研发中心 </span><br />
+  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">研究方向：</span></p>
+	  <p><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">生物医学光谱学与技术</span></p>
+	  <p><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">毕业去向：海信研发中心 </span><br />
 	    <br />
-	    <span style="font-family: verdana, geneva; font-size: 14pt;"><a href="shanghai234@126.com">Email</a></span><br />
+	    <span style="font-family: verdana, geneva; font-size: 14pt;color: #03F;">Email:shanghai234@126.com</a></span><br />
 	    <span style="font-family: verdana, geneva; font-size: 14pt;"><br />
 </span></p></td>
 </tr>
-
-<tr class="row-14">
-	<td class="column-1"><img src="file:///C|/Users/BME/Desktop/malaniurou.github.io/images/吴曰超/123.jpg" width="150" height="197" class="ngg-singlepic ngg-none"  " /></a></td>
+<tr class="row-12">
+	<td class="column-1"><img src="images/张学喜/zhangxuexi.jpg" width="150" height="200" class="ngg-singlepic ngg-none"  " /></a></td>
 	<td class="column-2"><p><span style="font-family: 'times new roman', times; font-size: 20pt; color: #000000;"><strong>张学喜</strong></span><br />
   <br />
   <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">山东省泰安市</span><br />
   <br />
-  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">研究方向：<br />
-    生物医学光谱学与技术</span><em><strong></strong></em></p>
-	  <p><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">毕业去向：GE医疗</span><br />
+  <span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">研究方向：</span></p>
+	  <p><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">生物医学光谱学与技术</span></p>
+	  <p><span style="font-family: 'times new roman', times; font-size: 16pt; color: #000000;">毕业去向：GE医疗 </span><br />
 	    <br />
-	    <span style="font-family: verdana, geneva; font-size: 14pt;"><a href="shanghai234@126.com">Email</a></span><br />
+	    <span style="font-family: verdana, geneva; font-size: 14pt;color: #03F;">Email:zxxsfm@163.com</a></span><br />
 	    <span style="font-family: verdana, geneva; font-size: 14pt;"><br />
 </span></p></td>
 </tr>
-
-
 </tbody>
 </table>
 		  </div><!-- end content --><!-- end sidebar -->
@@ -259,7 +253,7 @@
 </div><!-- end container -->
 
 <div id="footer">
-	<p>© NUAA 2017. Design by <a href="http://gsmis.nuaa.edu.cn:81/gmis/xkjsb/yjsdsfc.aspx?id=03163">BMS & MIL</a> | <a href="https://github.com/terminator314">高浩</a>
+	<p>© NUAA 2017. Design by <a href="http://gsmis.nuaa.edu.cn:81/gmis/xkjsb/yjsdsfc.aspx?id=03163">BMS & MIL</a> | <a href="https://github.com/terminator314">CAE</a>
 </p>
 </div><!-- end footer -->
 
