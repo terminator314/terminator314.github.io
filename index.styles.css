@@ -135,7 +135,7 @@ li ol, li ul {
 #nav {
 	height: 40px;
 	width: 920px;
-	margin-top:80px;
+	margin-top:83px;
 }
 
 #nav ul {
@@ -154,7 +154,7 @@ li ol, li ul {
 #nav ul li a {
 	color: #000;
 	display: block;
-	font-size: 18px;
+	font-size: 17px;
 	padding: 12px 20px;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -162,7 +162,7 @@ li ol, li ul {
 
 #nav ul li a:hover {
 	color: #C30;
-	font-size: 18px;
+	font-size: 17px;
 }
 
 
@@ -213,7 +213,7 @@ margin:0;
 .sidebar-inner {
 	-moz-border-radius:17px;
 	background-color:#E8F3FF;
-	padding:25px;
+	padding:15px;
 	margin-bottom:40px;
 
 }

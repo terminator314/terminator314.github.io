@@ -136,7 +136,7 @@ li ol, li ul {
 #nav {
 	height: 40px;
 	width: 920px;
-	margin-top:120px;
+	margin-top:128px;
 }
 
 #nav ul {
@@ -155,7 +155,7 @@ li ol, li ul {
 #nav ul li a {
 	color: #000;
 	display: block;
-	font-size: 18px;
+	font-size: 17px;
 	padding: 12px 20px;
 	text-decoration: none;
 	text-transform: uppercase;
