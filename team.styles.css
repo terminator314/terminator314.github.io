@@ -15,6 +15,7 @@ body {
 p {
 	line-height: 1.5em;
 	margin-bottom: 20px;
+	font-size: 16px;
 }
 
 a {
@@ -152,7 +153,7 @@ li ol, li ul {
 #nav ul li a {
 	color: #000;
 	display: block;
-	font-size: 17px;
+	font-size: 16px;
 	padding: 12px 20px;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -306,6 +307,7 @@ th {
 td {
 	background: #fff;
 	border-bottom: 1px solid #ccc;
+	font-size: 16px;
 }
 
 blockquote {
